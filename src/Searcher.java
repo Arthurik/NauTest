@@ -28,7 +28,7 @@ public class Searcher implements ISearcher {
                 if(i<12){
                     Nau n = (Nau) s.next();
                     String res = n.classNames;
-                    if(mapVal(res,start)){
+                    if(compareClassName(res, start)){
                         result[i] = res;
 
                     i++;
@@ -41,7 +41,7 @@ public class Searcher implements ISearcher {
         return result;
     }
 
-    public Boolean mapVal(String st, String start){
+    public Boolean compareClassName(String st, String start){
         Pattern p = Pattern.compile("^"+start+".+");
         Matcher matcher = p.matcher(st);
         return matcher.matches();

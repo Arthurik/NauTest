@@ -72,27 +72,25 @@
       <file leaf-file-name="ISearcher.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ISearcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="425">
+            <state line="17" column="0" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearcherTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="SearcherTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="0" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.0" vertical-offset="976" max-vertical-offset="1309">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="15" column="26" selection-start="331" selection-end="331" vertical-scroll-proportion="-0.29565218" vertical-offset="340" max-vertical-offset="1173">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Searcher.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Searcher.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Searcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.8678679" vertical-offset="0" max-vertical-offset="1445">
+            <state line="42" column="0" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0" vertical-offset="1027" max-vertical-offset="1445">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,9 +109,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/Searcher1.java" />
+        <option value="$PROJECT_DIR$/src/ISearcher.java" />
         <option value="$PROJECT_DIR$/src/Searcher.java" />
         <option value="$PROJECT_DIR$/src/SearcherTest.java" />
-        <option value="$PROJECT_DIR$/src/ISearcher.java" />
       </list>
     </option>
   </component>
@@ -178,20 +176,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NauTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NauTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -214,12 +198,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../devProgram/junit-4.10.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="SearchEverywhereHistory" value="" />
   </component>
-  <component name="RunManager" selected="JUnit.SearcherTest">
+  <component name="RunManager" selected="JUnit.All in NauTest">
     <configuration default="false" name="SearcherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="SearcherTest" />
@@ -262,6 +246,29 @@
         <option name="LOCAL" value="true" />
       </RunnerSettings>
       <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in NauTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="NauTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
@@ -475,14 +482,16 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.SearcherTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.SearcherTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.All in NauTest" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SearcherTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SearcherTest" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in NauTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SearcherTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SearcherTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -525,11 +534,13 @@
       <workItem from="1390022532271" duration="12526000" />
       <workItem from="1391186968784" duration="6778000" />
       <workItem from="1391405706922" duration="23485000" />
+      <workItem from="1391576926189" duration="941000" />
+      <workItem from="1391590248246" duration="3186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99172000" />
+    <option name="totallyTimeSpent" value="103299000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -552,20 +563,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1364" height="726" extended-state="1" />
-    <editor active="false" />
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24961714" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3956229" sideWeight="0.7511485" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3956229" sideWeight="0.7511485" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3956229" sideWeight="0.24885145" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37542087" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1669219" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -576,11 +586,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1669219" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37542087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37542087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -607,21 +618,44 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ISearcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="5" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1564">
+        <state line="17" column="0" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="26" selection-start="2372" selection-end="2372" vertical-scroll-proportion="0.0" vertical-offset="1632" max-vertical-offset="2023">
+        <state line="71" column="0" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Searcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="25" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1445">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ISearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="0" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Searcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1445">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -635,19 +669,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1564">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="96" column="26" selection-start="2372" selection-end="2372" vertical-scroll-proportion="0.0" vertical-offset="1632" max-vertical-offset="2023">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -658,9 +683,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher1.java">
+    <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="9" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1428">
+        <state line="96" column="26" selection-start="2372" selection-end="2372" vertical-scroll-proportion="0.0" vertical-offset="1632" max-vertical-offset="2023">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ISearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="5" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
           <folding />
         </state>
       </provider>
@@ -668,9 +700,7 @@
     <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="99" column="22" selection-start="2451" selection-end="2451" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2023">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -681,19 +711,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1428">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="99" column="22" selection-start="2451" selection-end="2451" vertical-scroll-proportion="0.0" vertical-offset="1683" max-vertical-offset="2023">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -704,32 +725,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="117" column="1" selection-start="2745" selection-end="2745" vertical-scroll-proportion="0.0" vertical-offset="1989" max-vertical-offset="2091">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ISearcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="969">
           <folding />
         </state>
       </provider>
@@ -742,9 +747,7 @@
     <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="117" column="1" selection-start="2745" selection-end="2745" vertical-scroll-proportion="0.0" vertical-offset="1989" max-vertical-offset="2091">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -755,19 +758,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="5" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="114" column="0" selection-start="2738" selection-end="2738" vertical-scroll-proportion="0.0" vertical-offset="1938" max-vertical-offset="2091">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -778,19 +772,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="114" column="0" selection-start="2738" selection-end="2738" vertical-scroll-proportion="0.0" vertical-offset="1938" max-vertical-offset="2091">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -801,32 +786,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="114" column="0" selection-start="2738" selection-end="2738" vertical-scroll-proportion="0.0" vertical-offset="1938" max-vertical-offset="2091">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ISearcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="850">
           <folding />
         </state>
       </provider>
@@ -834,9 +803,7 @@
     <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="114" column="0" selection-start="2738" selection-end="2738" vertical-scroll-proportion="0.0" vertical-offset="1725" max-vertical-offset="2091">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -877,22 +844,20 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/java/util/TreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1187" column="0" selection-start="41783" selection-end="41783" vertical-scroll-proportion="0.33333334" vertical-offset="19673" max-vertical-offset="41157">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1598">
-          <folding />
-        </state>
+        <state line="1187" column="0" selection-start="41783" selection-end="41783" vertical-scroll-proportion="0.33333334" vertical-offset="19673" max-vertical-offset="41157" />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1663" column="27" selection-start="70107" selection-end="70107" vertical-scroll-proportion="0.5304348" vertical-offset="26898" max-vertical-offset="53329">
-          <folding />
+        <state line="1663" column="27" selection-start="70107" selection-end="70107" vertical-scroll-proportion="0.5304348" vertical-offset="26898" max-vertical-offset="53329" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Searcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0" vertical-offset="1027" max-vertical-offset="1445">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -905,19 +870,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SearcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="0" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Searcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.8678679" vertical-offset="0" max-vertical-offset="1445">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="15" column="26" selection-start="331" selection-end="331" vertical-scroll-proportion="-0.29565218" vertical-offset="340" max-vertical-offset="1173">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -978,7 +932,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

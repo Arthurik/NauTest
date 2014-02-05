@@ -1,14 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- *
- * Тестовый класс
- * Позволяет проверить, что базовые требования выполняются
- *
- * Для запуска теста необходим JUnit 4.x
- *
- */
+
 public class SearcherTest
 {
    @Test
